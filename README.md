@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Como Usar
 
 Instale as dependências
@@ -123,6 +122,4 @@ Em evolução.
 ## Integrante ️
 
 CARLOS JOSÉ DINIZ INTRIERI   
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosintrieri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/carlosintrieri)
-"# CuidaEmprego" 
->>>>>>> d378950c6fb77c8d1ac39c9fcb043dafe2551e75
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosintrieri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/carlosintrieri)
